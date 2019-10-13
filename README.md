@@ -12,4 +12,4 @@ General implementation is as follows
 
 ./arrow_detector  /path to svm model /path to image
 
-Arrow-SIgn-Detector-/test_images/output.png
+![alt text](https://github.com/SudhakarGoyal/Arrow-SIgn-Detector-/blob/master/test_images/output.png)
