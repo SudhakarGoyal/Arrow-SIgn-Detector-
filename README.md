@@ -11,3 +11,5 @@ Go to the build folder and run the following command
 General implementation is as follows
 
 ./arrow_detector  /path to svm model /path to image
+
+Arrow-SIgn-Detector-/test_images/output.png
