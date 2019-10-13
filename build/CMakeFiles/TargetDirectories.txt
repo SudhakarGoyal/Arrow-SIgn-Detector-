@@ -1,0 +1,7 @@
+/home/hitech/Downloads/connected_robotics_assignment/sign_detector/build/CMakeFiles/edit_cache.dir
+/home/hitech/Downloads/connected_robotics_assignment/sign_detector/build/CMakeFiles/arrow_detector.dir
+/home/hitech/Downloads/connected_robotics_assignment/sign_detector/build/CMakeFiles/rebuild_cache.dir
+/home/hitech/Downloads/connected_robotics_assignment/sign_detector/build/CMakeFiles/arrow_detect.dir
+/home/hitech/Downloads/connected_robotics_assignment/sign_detector/build/dlib_build/CMakeFiles/edit_cache.dir
+/home/hitech/Downloads/connected_robotics_assignment/sign_detector/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/hitech/Downloads/connected_robotics_assignment/sign_detector/build/dlib_build/CMakeFiles/dlib.dir

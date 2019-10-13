@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarrow_detect.a  CMakeFiles/arrow_detect.dir/src/arrow_detect.cpp.o
+/usr/bin/ranlib libarrow_detect.a
